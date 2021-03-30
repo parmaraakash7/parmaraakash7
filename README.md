@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently Student.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning React.js and Next.js
 - 👯 I’m looking to collaborate on any flutter related task.
 - 🤔 I’m looking for help with Firebase with flutter.
 <!--
