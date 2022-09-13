@@ -6,11 +6,14 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently Student.
-- 🌱 I’m currently learning React.js and Next.js
+- 🌱 I’m currently learning Deep Learning.
+<!--
 - 👯 I’m looking to collaborate on any flutter related task.
 - 🤔 I’m looking for help with Firebase with flutter.
+-->
+
+- 💬 Ask me about Data Structures and Algorithms and LeetCode.
 <!--
-- 💬 Ask me about ...
 - 📫 How to reach me: ...-->
 - 😄 Pronouns: He/him
 <!--
